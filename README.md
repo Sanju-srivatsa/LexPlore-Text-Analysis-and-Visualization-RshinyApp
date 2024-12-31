@@ -1,11 +1,11 @@
-# Lexplore: Your Text Analysis Companion
+# LexPlore: Your Text Analysis Companion
 
-**Lexplore** is a web-based application designed to analyze and visualize text data interactively. With a user-friendly interface and dynamic visualizations, Lexplore is perfect for exploring patterns, trends, and insights in any written content, whether it's literature, feedback, or any text dataset.
+**LexPlore** is a web-based application designed to analyze and visualize text data interactively. With a user-friendly interface and dynamic visualizations, LexPlore is perfect for exploring patterns, trends, and insights in any written content, whether it's literature, feedback, or any text dataset.
 
 ---
-## Why "Lexplore"?
+## Why "LexPlore"?
 
-The name **Lexplore** is derived from:
+The name **LexPlore** is derived from:
 - **"Lex"**, meaning vocabulary or words.
 - **"Explore"**, emphasizing the discovery of insights from text.
 
@@ -14,9 +14,9 @@ This app combines the power of text processing with visually engaging graphs, en
 ---
 ## About the App
 
-Lexplore is built using R and Shiny, combining robust natural language processing (NLP) techniques with powerful visualization tools. The app is designed to be user-friendly, enabling both novice and experienced users to dive into text data analysis without requiring extensive programming knowledge.
+LexPlore is built using R and Shiny, combining robust natural language processing (NLP) techniques with powerful visualization tools. The app is designed to be user-friendly, enabling both novice and experienced users to dive into text data analysis without requiring extensive programming knowledge.
 
-With Lexplore, you can:
+With LexPlore, you can:
 - Tokenize and process text data.
 - Perform word frequency analysis to identify the most common words.
 - Conduct sentiment analysis to understand the emotional tone of the text.
@@ -54,7 +54,7 @@ The app supports multiple text input methods, allowing users to upload files, pa
 
 ## 🎯 Purpose of the App
 
-Lexplore is built to simplify text analysis and visualization for a wide range of users. Whether you’re a student analyzing literature, a researcher exploring textual datasets, or a business professional extracting insights from customer feedback, Lexplore helps you:
+LexPlore is built to simplify text analysis and visualization for a wide range of users. Whether you’re a student analyzing literature, a researcher exploring textual datasets, or a business professional extracting insights from customer feedback, LexPlore helps you:
 
 - **Understand Word Patterns:** Identify the most common words in your text.
 - **Discover Emotional Tone:** Use sentiment analysis to gauge positivity or negativity.
@@ -67,7 +67,7 @@ Lexplore is built to simplify text analysis and visualization for a wide range o
 
 ### 1. **Launch the App**
 Access the app online via the following link:  
-👉 [Lexplore on ShinyApps.io](https://sanjusrivatsa.shinyapps.io/Lexplore/)
+👉 [LexPlore on ShinyApps.io](https://sanjusrivatsa.shinyapps.io/LexPlore/)
 
 ### 2. **Input Your Text**
 - **Option 1:** Upload a `.txt` file from your computer.
@@ -140,8 +140,8 @@ This project is licensed under the MIT License. Feel free to use and adapt the a
 
 ---
 
-Explore your text like never before with **Lexplore**! 🌟  
-[Launch the App](https://sanjusrivatsa.shinyapps.io/Lexplore/)
+Explore your text like never before with **LexPlore**! 🌟  
+[Launch the App](https://sanjusrivatsa.shinyapps.io/LexPlore/)
 
 ---
 
