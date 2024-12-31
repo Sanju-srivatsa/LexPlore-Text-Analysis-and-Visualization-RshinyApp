@@ -80,15 +80,20 @@ Access the app online via the following link:
 
 ### Word Frequency Chart
 Displays the top N words in a bar chart format, with frequency labels for clarity.
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/e3e2cf62-5948-43c4-ba73-305ee66fff30" />
 
 ### Sentiment Analysis Chart
 Visualizes the emotional tone of the text, categorized into positive and negative sentiments using vibrant colors.
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/8a55ad2d-19fb-4d49-b17f-273640d64faa" />
 
 ### Word Cloud
 Generates an engaging cloud of the most frequently occurring words, with customizable word count.
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/c3da0f4e-c871-4d3b-9cc5-8fa964ffc37e" />
 
 ### Interactive Table
 Offers a sortable and searchable table of the top keywords with their frequencies.
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/63f68a18-aceb-42bb-8cf4-8943302419d0" />
+
 
 ---
 
