@@ -12,7 +12,20 @@ The name **Lexplore** is derived from:
 This app combines the power of text processing with visually engaging graphs, enabling users to better understand their data.
 
 ---
+## About the App
 
+Lexplore is built using R and Shiny, combining robust natural language processing (NLP) techniques with powerful visualization tools. The app is designed to be user-friendly, enabling both novice and experienced users to dive into text data analysis without requiring extensive programming knowledge.
+
+With Lexplore, you can:
+- Tokenize and process text data.
+- Perform word frequency analysis to identify the most common words.
+- Conduct sentiment analysis to understand the emotional tone of the text.
+- Visualize insights using dynamic bar charts, word clouds, and interactive tables.
+- Customize visualizations to suit your preferences.
+
+The app supports multiple text input methods, allowing users to upload files, paste custom text, or analyze a default poem included with the app.
+
+---
 ## 🌟 Features
 
 ### 1. **Flexible Text Input Options**
